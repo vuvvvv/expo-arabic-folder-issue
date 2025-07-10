@@ -1,7 +1,15 @@
 # expo arabic folder issue or Path
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+
 عند تشغيل مشروع React Native باستخدام Expo Go، قد تواجه مشكلة في عدم تعرف التطبيق على المشروع أو عدم عمله بشكل صحيح.
+&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+
 
 # مشكلة تطبيق Expo Go 
+&nbsp;&nbsp;&nbsp;
+
 ![رسالة الخطاء من التطبيق ](Im/فشل_wrong.jpg)
 
 &nbsp;&nbsp;&nbsp;
@@ -26,14 +34,23 @@
 
 
  # الحل 
+ &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+
  
   **نقل المشروع الى القرص C:// مباشرة**
+  &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+
   ![الحل تجنب مسار يوجد به كلمة عربية ](Im/مسار_مباشر_من_C.JPG)
  &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
 
  
  **الحل اخر تثبيت نظام الويندوز باللغة الإنجليزية من البداية أفضل للمبرمجين لتجنب كثير من المشاكل المستقبلية في التعامل مع الأدوات والبيئات التطويرية.**
+ &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
+
 
  ![البرنامج يعمل بشكل جيد بعد تغير المسار ](Im/work_fine.jpg)
 
