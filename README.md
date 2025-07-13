@@ -1,4 +1,4 @@
-# expo arabic folder issue or Path
+# expo arabic folder issue 
 &nbsp;&nbsp;&nbsp;
 &nbsp;&nbsp;&nbsp;
 
